@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Irfan Ullah</h1>
 
-<!--
-**irfancodez/irfancodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineering Student • WordPress Developer • Java Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern websites, learning software engineering, and creating real-world solutions.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+🎓 Software Engineering Student at COMSATS University Islamabad
+
+💼 WordPress Developer with experience building and customizing professional websites
+
+☕ Learning Java and Object-Oriented Programming
+
+📱 Currently learning Flutter
+
+🤖 Interested in Artificial Intelligence
+
+🚀 Goal: Become a Full Stack Software Engineer
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+
+- Java
+- JavaScript
+- HTML5
+- CSS3
+- PHP
+- SQL
+
+### Tools
+
+- WordPress
+- Elementor
+- WooCommerce
+- Git
+- GitHub
+- VS Code
+- Android Studio
+
+### Other Skills
+
+- SEO
+- Responsive Web Design
+- Website Optimization
+
+---
+
+# 🚀 Current Focus
+
+✔ Java Programming
+
+✔ Data Structures
+
+✔ Flutter
+
+✔ Artificial Intelligence
+
+✔ Software Engineering
+
+---
+
+# 📂 Projects
+
+Coming Soon...
+
+---
+
+# 📫 Contact
+
+📧 irfanullah9295@gmail.com
+
+📍 Islamabad, Pakistan
+
+---
+
+⭐ Thanks for visiting my profile.
